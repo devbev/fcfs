@@ -12,13 +12,11 @@ html{
 body {
     margin: 0;
     padding: 0;
-    padding-bottom: 60px;
+    padding-bottom: 30px;
     min-height: 100vh;
 }
 
 header{
-    padding-top: 60px;
-    padding-bottom: 20px;
     padding: 35px;
     text-align: center;
     
@@ -139,8 +137,14 @@ header #ai {
     * {
         box-sizing: border-box;
     }
+    
+    body {
+        padding-bottom: 60px;
+    }
 
     header {
+        padding-top: 60px;
+        padding-bottom: 20px;
         padding-left: 290px;
         padding-right: 290px;
         text-align: center;
