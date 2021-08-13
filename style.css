@@ -56,7 +56,6 @@ header #ai {
 }
 
 
-
 #container > * {
     column-gap: 5em;
     padding: 20px;
@@ -91,7 +90,6 @@ header #ai {
     margin-bottom: 20px;
     
 }
-
 
 
 #container .middle .karma {
@@ -157,7 +155,6 @@ header #ai {
     #container {
         display: flex;
         flex-direction: row;
-        min-width: 100vw;
         min-height: 100vh;
         margin: 0 auto;
         justify-content: space-around;
@@ -182,7 +179,5 @@ header #ai {
         max-height: 250px;
         max-width: 295px;
     }
-
-
     
 }
